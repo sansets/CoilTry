@@ -1,0 +1,2 @@
+rootProject.name='CoilTry'
+include ':app'
